@@ -1,0 +1,3 @@
+- **NewsCollector**: Fetches financial news from RSS feeds/APIs
+- **SocialCollector**: Collects social media sentiment (Twitter/Reddit)
+- **MarketDataCollector**: Retrieves real-time market prices via CCXT
