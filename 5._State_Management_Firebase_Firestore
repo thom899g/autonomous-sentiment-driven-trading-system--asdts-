@@ -1,0 +1,11 @@
+- **SystemState**: Trades, positions, and performance metrics
+- **SentimentData**: Historical sentiment scores
+- **StrategyConfig**: Active strategy parameters
+
+## Data Flow
+1. Collect text data from multiple sources
+2. Process and analyze sentiment scores
+3. Generate trading signals based on sentiment thresholds
+4. Execute trades with risk management
+5. Log all activity to Firestore for analysis
+6. Continuously optimize based on performance
