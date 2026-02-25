@@ -1,0 +1,3 @@
+- **StrategyGenerator**: Creates sentiment-driven trading strategies
+- **RiskManager**: Manages position sizing and risk parameters
+- **Backtester**: Validates strategies against historical data
