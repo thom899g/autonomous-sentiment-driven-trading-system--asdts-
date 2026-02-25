@@ -1,0 +1,3 @@
+- **OrderManager**: Handles order creation and management
+- **ExchangeClient**: CCXT-based exchange interface
+- **PortfolioManager**: Tracks positions and P&L
